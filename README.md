@@ -10,9 +10,9 @@
   <a href="https://conanglog.tistory.com/95?category=324412/">
     <img src="https://img.shields.io/badge/Tech_Blog-black?style=flat-square&&logo=ReverbNation&&logoColor=white&link=https://conanglog.tistory.com/95?category=324412/"/>
   </a>
-  <a href="https://www.acmicpc.net/user/nangzz">
+<!--  <a href="https://www.acmicpc.net/user/nangzz">
     <img src="https://img.shields.io/badge/Baekjoon-0088FF?style=flat-square&&logo=Python&&logoColor=white&link=https://www.acmicpc.net/user/nangzz"/>
-  </a>
+  </a>-->
 </p>
 
 <br/>
@@ -51,7 +51,7 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nangzz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nangzz&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=250&section=footer&text=&fontSize=70&fontAlignY=35)
 
