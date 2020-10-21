@@ -53,6 +53,14 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nangzz&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
+  <div align=right>
+	
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnangzz&count_bg=%23EFE9A5&title_bg=%23CFCFCF&icon=github.svg&icon_color=%23E7E7E7&title=.+&edge_flat=true)](https://hits.seeyoufarm.com)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fconanglog.tistory.com&count_bg=%23EFE9A5&title_bg=%23CFCFCF&icon=github.svg&icon_color=%23E7E7E7&title=*&edge_flat=true)](https://hits.seeyoufarm.com)
+	
+  </div>
+
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=250&section=footer&text=&fontSize=70&fontAlignY=35)
 
 press __`F5`__
