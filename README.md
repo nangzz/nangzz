@@ -16,7 +16,7 @@
 </p>
 
 <br/>
-<p align="center">🌱 I’m currently learning <B>Python</b></p>
+<h4 align="center">🌱 1 day 1 solution completely</h4>
 
 ### ✔ interest
 - Spring
