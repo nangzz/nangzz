@@ -22,7 +22,7 @@
 - Spring
 - Cloud
 - MSA
-- DevOps
+- Go
 <br/>
 
 ### ✔ languages & tools
