@@ -23,6 +23,7 @@
 - Cloud
 - MSA
 - Go
+- Devops
 <br/>
 
 ### ✔ languages & tools
